@@ -1,0 +1,53 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.idris{
+    background-color:  white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow:5px 5px 5px 2px black;
+    width: 400px;
+}
+.image img{
+    border-radius: 10px;
+    width: 380px;
+    margin-top: 10px;
+
+
+}
+.idrisse{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+h3 strong{
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: large;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  
